@@ -1,0 +1,114 @@
+{
+  "ethereum": {
+       "startMintId": 1,
+       "endMintId": 5000000
+  },
+  "bsc": {
+       "startMintId": 5000001,
+       "endMintId": 10000000
+  },
+  "avalanche": {
+       "startMintId": 10000001,
+       "endMintId": 15000000
+  },
+  "polygon": {
+       "startMintId": 15000001,
+       "endMintId": 20000000
+  },
+  "arbitrum": {
+       "startMintId": 20000001,
+       "endMintId": 25000000
+  },
+  "optimism": {
+       "startMintId": 25000001,
+       "endMintId": 30000000
+  },
+  "fantom": {
+       "startMintId": 30000001,
+       "endMintId": 35000000
+  },
+  "celo": {
+       "startMintId": 35000001,
+       "endMintId": 40000000
+  },
+  "zkevm": {
+       "startMintId": 40000001,
+       "endMintId": 45000000
+  },
+  "zksync": {
+       "startMintId": 45000001,
+       "endMintId": 50000000
+  },
+  "arbitrum-nova": {
+       "startMintId": 50000001,
+       "endMintId": 55000000
+  },
+  "linea": {
+       "startMintId": 55000001,
+       "endMintId": 60000000
+  },
+  "base": {
+       "startMintId": 60000001,
+       "endMintId": 65000000
+  },
+  "zora": {
+       "startMintId": 65000001,
+       "endMintId": 70000000
+  },
+  "opbnb": {
+       "startMintId": 70000001,
+       "endMintId": 75000000
+  },
+  "mantle": {
+       "startMintId": 75000001,
+       "endMintId": 80000000
+  },
+  "scroll": {
+       "startMintId": 80000001,
+       "endMintId": 85000000
+  },
+  "harmony": {
+       "startMintId": 85000001,
+       "endMintId": 90000000
+  },
+  "moonriver": {
+       "startMintId": 90000001,
+       "endMintId": 95000000
+  },
+  "coredao": {
+       "startMintId": 95000001,
+       "endMintId": 100000000
+  },
+  "klaytn": {
+       "startMintId": 100000001,
+       "endMintId": 105000000
+  },
+  "moonbeam": {
+       "startMintId": 105000001,
+       "endMintId": 110000000
+  },
+  "canto": {
+       "startMintId": 110000001,
+       "endMintId": 115000000
+  },
+  "tenet": {
+       "startMintId": 115000001,
+       "endMintId": 120000000
+  },
+  "fuse": {
+       "startMintId": 120000001,
+       "endMintId": 125000000
+  },
+  "metis": {
+       "startMintId": 125000001,
+       "endMintId": 130000000
+  },
+  "okt": {
+       "startMintId": 130000001,
+       "endMintId": 135000000
+  },
+  "gnosis": {
+       "startMintId": 135000001,
+       "endMintId": 140000000
+  }
+}
